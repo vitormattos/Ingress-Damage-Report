@@ -1,5 +1,5 @@
-Ingress-Damage-Report
-=====================
+Ingress-Sentinels
+=================
 
 inserts data with damage email report in a sqlite database.
 
