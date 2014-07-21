@@ -1,0 +1,21 @@
+{
+    "name": "vitormattos/ingress-sentinel",
+    "description": "Monitoring Ingress report e-mail of attacks on portals",
+    "require": {
+        "robmorgan/phinx": "*",
+        "guiguiboy/php-cli-progress-bar": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitor Mattos",
+            "email": "vitor.mattos@phprio.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "IngressSentinel\\": "src"
+        }
+    }
+}

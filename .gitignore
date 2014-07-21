@@ -3,7 +3,7 @@
 *.lock
 
 # Sqlite files
-*.sqlite
+*.sqlite*
 
 # Eclipse
 .buildpath
