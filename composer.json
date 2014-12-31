@@ -3,7 +3,9 @@
     "description": "Monitoring Ingress report e-mail of attacks on portals",
     "require": {
         "robmorgan/phinx": "*",
-        "guiguiboy/php-cli-progress-bar": "dev-master"
+        "guiguiboy/php-cli-progress-bar": "dev-master",
+        "ext-imap": "*",
+        "ext-pdo": "*"
     },
     "license": "MIT",
     "authors": [
